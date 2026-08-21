@@ -1,0 +1,49 @@
+incoming_email,reply,category
+Action Required: Please submit your project report by EOD tomorrow.,I will submit the report by EOD tomorrow.,Action Required
+Urgent: This requires your immediate approval.,I approve this. Signed and sent.,Action Required
+Required: Complete the compliance training before Friday.,I have completed the compliance training.,Action Required
+Urgent action needed: Fix the production system immediately.,I'm fixing the system now. ETA 1 hour.,Action Required
+Required: Submit expense report for Q3.,Expense report submitted.,Action Required
+Action required: Review and sign the contract.,I have reviewed and signed the contract.,Action Required
+Urgent: Submit all deliverables by end of day.,All deliverables submitted on time.,Action Required
+Required approval needed for budget allocation.,Budget allocation approved.,Action Required
+Please review the attached document and provide feedback ASAP.,I have reviewed the document and provided feedback.,Action Required
+Immediate action needed to resolve server downtime.,Server issue resolved.,Action Required
+Kindly approve the purchase request by 5 PM.,Purchase request approved.,Action Required
+"FYI: System maintenance scheduled tonight, please complete all pending task approvals immediately.",Approvals completed for maintenance window.,Action Required
+FYI: The office will be closed on Monday.,Thanks for the reminder about the closure.,Informational
+Announcement: New HR policies available on intranet.,I have read the new policies.,Informational
+Update: Q3 quarterly results published.,Thanks for sharing the quarterly results.,Informational
+Reminder: Company picnic this Saturday.,Thanks for the reminder.,Informational
+Informational: System maintenance scheduled next week.,I'll plan for system maintenance downtime.,Informational
+Announcement: New benefits package rollout.,Thank you for the benefits information.,Informational
+Update: Team reorganization effective next month.,Thanks for the update.,Informational
+Reminder: Don't forget annual review deadline.,I will complete my review by the deadline.,Informational
+Here is the summary of our team performance for last month.,Thank you for the monthly summary.,Informational
+Attached is the monthly newsletter for your reference.,"Newsletter received, thanks.",Informational
+Please note that the cafeteria hours have been updated.,Noted regarding cafeteria hours.,Informational
+FYI: New security guidelines have been published on the portal.,Security guidelines reviewed.,Informational
+Meeting scheduled: Project kickoff on Thursday at 2pm.,I will be there Thursday at 2pm.,Meeting
+Can we schedule a meeting to discuss timeline?,"Yes, let's meet to discuss the timeline.",Meeting
+When are you available for a call next week?,I am available Wednesday at 3pm.,Meeting
+Let's schedule a conference call tomorrow.,I can join the call tomorrow at 10am.,Meeting
+Meeting request: Roadmap alignment session.,I would like to join this alignment session.,Meeting
+Can you join the call at 3pm today?,I'll join the call at 3pm.,Meeting
+Meeting scheduled for Q3 planning next Friday.,I will attend the planning meeting.,Meeting
+When works for you to discuss the project?,Tuesday at 2pm works best for me.,Meeting
+Invitation: Brainstorming session for the new product launch.,Accepting the brainstorming invitation.,Meeting
+Let's catch up over a brief sync tomorrow at 10 AM.,"Sounds good, see you at 10 AM.",Meeting
+Are you free for a quick Zoom call later afternoon?,I am free at 4 PM for the Zoom call.,Meeting
+Question: Can you help me find the link for tomorrow's team sync?,I am available Thursday at 2 PM for the sync.,Meeting
+How do I submit my leave request?,Submit through the HR portal.,Question
+Can you explain the new expense policy?,Expenses over 500 require approval.,Question
+What is the deadline for deliverables?,End of quarter is the deadline.,Question
+Could you clarify the task requirements?,Requirements are in the project brief.,Question
+I have a question about system access. Can you help?,Contact IT for system access.,Question
+How should I proceed with this issue?,You can start by reviewing the documentation.,Question
+What are the next steps for this project?,Next steps are listed in the roadmap.,Question
+Can you help me understand the requirements?,I can explain all requirements in detail.,Question
+Could you let me know who is leading the engineering team?,John Doe is leading the team.,Question
+Where can I find the latest version of the design spec?,Design spec is on Confluence.,Question
+Why was the deployment postponed to next Tuesday?,Postponed due to testing delays.,Question
+Who should I contact to get approval for software installation?,Contact helpdesk for software approval.,Question

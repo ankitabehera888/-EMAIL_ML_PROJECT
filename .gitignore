@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Logs
+*.log
+
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# Large raw datasets & models
+data/raw/
+models/t5-email-final/
+models/t5-email/checkpoint-*/
+models/t5-email-final/checkpoint-*/
+
+
+# Model binary files
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+
+# Keep the project structure
+!models/.gitkeep
+!data/processed/.gitkeep
+
+
+# Optional generated files
+*.pkl

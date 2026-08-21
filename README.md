@@ -70,22 +70,24 @@ flowchart TD
 - Modular structure separating training, API, and frontend code
 
 ## Project Structure
+
+```
 EMAIL_ML_PROJECT/
 │
-├── api/ # FastAPI backend (categorization + reply generation endpoints)
+├── api/                     # FastAPI backend (categorization + reply generation endpoints)
 ├── data/
-│ └── processed/ # Processed/cleaned datasets used for training
-├── models/ # Saved model artifacts (e.g., email_classifier.pkl)
-├── notebooks/ # Notebooks for experimentation and model exploration
-├── src/ # Core source code / shared utilities
-├── app.py # Streamlit frontend application
-├── train_classifier.py # Trains the TF-IDF + Logistic Regression classifier
-├── create_test_data.py # Generates sample/test email data
-├── check_data.py # Data validation and inspection script
-├── test_api.py # Tests for the FastAPI endpoints
-├── test_generator.py # Tests for the reply generation model
-└── requirements.txt # Project dependencies
-
+│   └── processed/           # Processed/cleaned datasets used for training
+├── models/                  # Saved model artifacts (e.g., email_classifier.pkl)
+├── notebooks/                # Notebooks for experimentation and model exploration
+├── src/                      # Core source code / shared utilities
+├── app.py                    # Streamlit frontend application
+├── train_classifier.py       # Trains the TF-IDF + Logistic Regression classifier
+├── create_test_data.py       # Generates sample/test email data
+├── check_data.py             # Data validation and inspection script
+├── test_api.py                # Tests for the FastAPI endpoints
+├── test_generator.py          # Tests for the reply generation model
+└── requirements.txt           # Project dependencies
+```
 ## How to Run Locally
 
 ```bash
